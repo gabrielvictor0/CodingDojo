@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\wwwroot\\audios\\1d7c2474-34a1-4963-8dde-c53842326bec.wav",
+      "PackagePath": "staticwebassets\\audios\\1d7c2474-34a1-4963-8dde-c53842326bec.wav"
+    },
+    {
+      "Id": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\wwwroot\\audios\\8af56370-dd71-4861-9fbf-10b4fa41bce3.wav",
+      "PackagePath": "staticwebassets\\audios\\8af56370-dd71-4861-9fbf-10b4fa41bce3.wav"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApiSpeak.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApiSpeak.props",
+      "PackagePath": "build\\WebApiSpeak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiSpeak.props",
+      "PackagePath": "buildMultiTargeting\\WebApiSpeak.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApiSpeak.props",
+      "PackagePath": "buildTransitive\\WebApiSpeak.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9530B3-06B0-4C0A-98B6-08CBAA8E13B8}|WebApiSpeak.csproj|c:\\users\\47349403801\\source\\repos\\webapispeak\\controllers\\speakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9530B3-06B0-4C0A-98B6-08CBAA8E13B8}|WebApiSpeak.csproj|solutionrelative:controllers\\speakcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9530B3-06B0-4C0A-98B6-08CBAA8E13B8}|WebApiSpeak.csproj|c:\\users\\47349403801\\source\\repos\\webapispeak\\repository\\speakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9530B3-06B0-4C0A-98B6-08CBAA8E13B8}|WebApiSpeak.csproj|solutionrelative:repository\\speakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9530B3-06B0-4C0A-98B6-08CBAA8E13B8}|WebApiSpeak.csproj|c:\\users\\47349403801\\source\\repos\\webapispeak\\interface\\ispeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9530B3-06B0-4C0A-98B6-08CBAA8E13B8}|WebApiSpeak.csproj|solutionrelative:interface\\ispeak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9530B3-06B0-4C0A-98B6-08CBAA8E13B8}|WebApiSpeak.csproj|c:\\users\\47349403801\\source\\repos\\webapispeak\\domains\\speakdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9530B3-06B0-4C0A-98B6-08CBAA8E13B8}|WebApiSpeak.csproj|solutionrelative:domains\\speakdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISpeak.cs",
+              "DocumentMoniker": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\Interface\\ISpeak.cs",
+              "RelativeDocumentMoniker": "Interface\\ISpeak.cs",
+              "ToolTip": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\Interface\\ISpeak.cs",
+              "RelativeToolTip": "Interface\\ISpeak.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:01:23.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpeakDomain.cs",
+              "DocumentMoniker": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\Domains\\SpeakDomain.cs",
+              "RelativeDocumentMoniker": "Domains\\SpeakDomain.cs",
+              "ToolTip": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\Domains\\SpeakDomain.cs",
+              "RelativeToolTip": "Domains\\SpeakDomain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:22:38.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpeakRepository.cs",
+              "DocumentMoniker": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\Repository\\SpeakRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\SpeakRepository.cs",
+              "ToolTip": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\Repository\\SpeakRepository.cs",
+              "RelativeToolTip": "Repository\\SpeakRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:25:18.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeakController.cs",
+              "DocumentMoniker": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\Controllers\\SpeakController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpeakController.cs",
+              "ToolTip": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\Controllers\\SpeakController.cs",
+              "RelativeToolTip": "Controllers\\SpeakController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T12:25:25.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

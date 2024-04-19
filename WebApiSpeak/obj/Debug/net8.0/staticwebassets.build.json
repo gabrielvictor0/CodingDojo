@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "a0N/omHfgHzz2ON21RUviIypAuYGQbI8mW234sAiCLU=",
+  "Source": "WebApiSpeak",
+  "BasePath": "_content/WebApiSpeak",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApiSpeak\\wwwroot",
+      "Source": "WebApiSpeak",
+      "ContentRoot": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\wwwroot\\",
+      "BasePath": "_content/WebApiSpeak",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\wwwroot\\audios\\1d7c2474-34a1-4963-8dde-c53842326bec.wav",
+      "SourceId": "WebApiSpeak",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\wwwroot\\",
+      "BasePath": "_content/WebApiSpeak",
+      "RelativePath": "audios/1d7c2474-34a1-4963-8dde-c53842326bec.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audios\\1d7c2474-34a1-4963-8dde-c53842326bec.wav"
+    },
+    {
+      "Identity": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\wwwroot\\audios\\8af56370-dd71-4861-9fbf-10b4fa41bce3.wav",
+      "SourceId": "WebApiSpeak",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\47349403801\\source\\repos\\WebApiSpeak\\wwwroot\\",
+      "BasePath": "_content/WebApiSpeak",
+      "RelativePath": "audios/8af56370-dd71-4861-9fbf-10b4fa41bce3.wav",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\audios\\8af56370-dd71-4861-9fbf-10b4fa41bce3.wav"
+    }
+  ]
+}
